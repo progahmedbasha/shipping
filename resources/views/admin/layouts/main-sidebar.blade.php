@@ -2,7 +2,7 @@
 		<div class="app-sidebar__overlay" data-toggle="sidebar"></div>
 		<aside class="app-sidebar sidebar-scroll">
 			<div class="main-sidebar-header active">
-				<a class="desktop-logo logo-light active" href="{{ url('/' . $page='index') }}"><h1>On Fast<i class='fas fa-shipping-fast' style='font-size:39px;color:#1670de'></i></h1></a>
+				<a class="desktop-logo logo-light active" href="{{ url('/' . $page='index') }}"><h1>Fast Co<i class='fas fa-shipping-fast' style='font-size:39px;color:#1670de'></i></h1></a>
 				<a class="desktop-logo logo-dark active" href="{{ url('/' . $page='index') }}"><img src="{{URL::asset('assets/img/brand/logo-white.png')}}" class="main-logo dark-theme" alt="logo"></a>
 				<a class="logo-icon mobile-logo icon-light active" href="{{ url('/' . $page='index') }}"><img src="{{URL::asset('assets/img/brand/favicon.png')}}" class="logo-icon" alt="logo"></a>
 				<a class="logo-icon mobile-logo icon-dark active" href="{{ url('/' . $page='index') }}"><img src="{{URL::asset('assets/img/brand/favicon-white.png')}}" class="logo-icon dark-theme" alt="logo"></a>
